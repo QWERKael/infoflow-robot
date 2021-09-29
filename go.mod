@@ -1,4 +1,4 @@
-module Baidu/infoflow-robot
+module github.com/QWERKael/infoflow-robot
 
 go 1.16
 

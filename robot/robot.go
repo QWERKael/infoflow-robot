@@ -1,8 +1,8 @@
 package robot
 
 import (
-	"Baidu/infoflow-robot/robot/receiver"
-	"Baidu/infoflow-robot/robot/sender"
+	"github.com/QWERKael/infoflow-robot/robot/receiver"
+	"github.com/QWERKael/infoflow-robot/robot/sender"
 )
 
 type IRobot struct {

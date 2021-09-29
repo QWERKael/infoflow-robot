@@ -1,11 +1,11 @@
 package receiver
 
 import (
-	"Baidu/infoflow-robot/robot/sender"
-	"Baidu/infoflow-robot/util"
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"
+	"github.com/QWERKael/infoflow-robot/robot/sender"
+	"github.com/QWERKael/infoflow-robot/util"
 	"github.com/QWERKael/utility-go/codec"
 	"github.com/gin-gonic/gin"
 	"io/ioutil"
